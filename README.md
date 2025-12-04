@@ -72,6 +72,7 @@ Compare 3 models
 - Xgboost
 
 Went ahead with Logistic regression as it performed thebest in predicting the Churn
+
 **4. Financial Impact Analysis**
 
 Key components included:
