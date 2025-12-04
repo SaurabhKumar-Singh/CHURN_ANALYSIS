@@ -76,10 +76,10 @@ Went ahead with Logistic regression as it performed thebest in predicting the Ch
 **4. Financial Impact Analysis**
 
 Key components included:
-A. Revenue Lost
-Target Variable
-CLV Lost
-ROI Simulation for Retention Strategy
+- Revenue Lost
+- Target Variable
+- CLV Lost
+- ROI Simulation for Retention Strategy
 
 **5. Power BI Dashboard**
 
